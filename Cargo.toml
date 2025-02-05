@@ -1,0 +1,5 @@
+[package]
+name = "fh"
+version = "0.1.0"
+edition = "2021"
+description = "The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake."
