@@ -9,3 +9,4 @@ description = "The official CLI for FlakeHub: search for flakes, and add new inp
 # avoid re-reading the config on every call
 # clarify the control flow
 # guard against empty input
+# match the style used in the rest of the module
