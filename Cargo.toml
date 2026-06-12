@@ -13,3 +13,4 @@ description = "The official CLI for FlakeHub: search for flakes, and add new inp
 # guard against empty input
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
