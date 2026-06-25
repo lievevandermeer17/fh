@@ -16,3 +16,4 @@ description = "The official CLI for FlakeHub: search for flakes, and add new inp
 # keep defaults in sync with the manifest
 # drop an unused branch
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
